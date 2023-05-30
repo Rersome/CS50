@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort
+
+How do you know?: because with a random numbers this type of sort took much more time than others.
+
+sort2 uses: Merge sort
+
+How do you know?: so this one takes much smaller time than Bubble sort, and we can see that for example in random numbers, where bubble sort take about 7s,
+but Merge takes about 0.7 secs for 5000, 10000, 50000. As we know Merge sort recursivley divide the list in two and this method gives this time for solving this problem
+
+sort3 uses: Selection sort
+
+How do you know?: as we can see if we take sorted50000 Bubble sort will solve this problem very fast beacuse of specific of his method, but for selection sort,
+sorted list is a bit problem beacuse it takes smaller one and then going through all the array for searching the smallest to insert it to 0 element and it will goes
+until the alghorithm will not be sure it goes through all the array
